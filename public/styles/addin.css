@@ -1,0 +1,62 @@
+p, a, li, label, .lines, .words, .cursor {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 16px;
+  color: #444;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Merriweather', sans-serif;
+  color: #444;
+}
+
+.articleTitle {
+  font-weight: 700;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.showDate {
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
+.title {
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  color: #444;
+  font-weight: 900;
+  margin-top: 40px;
+}
+
+.category {
+  font-weight: 900;
+  margin-bottom: 10px;
+  padding-bottom: 0px;
+}
+
+.articleDate {
+  font-size: 12px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.articleLink {
+
+}
+
+.footer {
+  padding-top: 50px;
+  font-size: 12px;
+}
+
+body {
+  /* background-image: url('http://i.imgur.com/Bf6njtq.jpg'); */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #272727;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+}
