@@ -21,11 +21,11 @@ h1, h2, h3, h4, h5 {
 }
 
 .title {
-  font-family: Georgia,Times,Times New Roman,serif; 
+  font-family: Georgia,Times,Times New Roman,serif;
   font-size: 60px;
   color: #444;
-  font-weight: 900;
-  margin-top: 40px;
+  font-weight: 300;
+  margin-top: 0px;
 }
 
 .category {
